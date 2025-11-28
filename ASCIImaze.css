@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 20px;
+    color: lightblue;
+    text-align:center;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+    color:lightblue;
+    text-align: center;
+}
+
+a {
+    font-family: monospace;
+    font-size: 20px;
+    color:lightblue;
+    text-align: center;
+}    
+
+body {
+    font-family: monospace;
+    font-size: 20px;
+    color: lightblue;
+    text-align: center;
+}   
+
+head {
+    font-family: monospace;
+    font-size: 20px;
+    color: lightblue;
+    text-align: center;
+    background-color: black;
+}    
